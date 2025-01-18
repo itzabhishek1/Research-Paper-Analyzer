@@ -13,7 +13,7 @@
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/Aopandey/Research-Paper-Analyzer.git
+    git clone https://github.com/itzabhishek1/Research-Paper-Analyzer.git
     cd Research-Paper-Analyzer
     ```
 
